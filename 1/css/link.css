@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+img{border:0px;}
+
+a:link {
+	color: #bc000f;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #bc000f;
+}
+a:hover {
+	text-decoration: underline;
+	color: #bc000f;
+}
+a:active {
+	text-decoration: none;
+	color: #bc000f;
+}
+
+a.a1:link {
+	color: #505050;
+	text-decoration: none;
+}
+a.a1:visited {
+	text-decoration: none;
+	color: #505050;
+}
+a.a1:hover {
+	text-decoration: underline;
+	color: #505050;
+}
+a.a1:active {
+	text-decoration: none;
+	color: #505050;
+}
+
+
+a.a2:link {
+	color: #bc000f;
+	text-decoration: underline;
+}
+a.a2:visited {
+	color: #bc000f;
+	text-decoration: underline;
+}
+a.a2:hover {
+	text-decoration: underline;
+	color: #bc000f;
+}
+a.a2:active {
+	text-decoration: underline;
+	color: #bc000f;
+}
+

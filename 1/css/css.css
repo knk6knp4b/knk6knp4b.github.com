@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{font-size:12px; color:#5a5a5a; margin:0px 0px;}
+ul,li,p,h1,h2,h3,span,form{margin:0px;padding:0px;}
+li{list-style:none;}
+b{ font-weight:bold;}
+.kg{width:1000px; margin-left:auto; margin-right:auto;}
+header{width:621px; float:left; height:42px; padding-top:13px; padding-bottom:3px; background-image:url(../images/logo.jpg); padding-left:379px; background-position:left top; background-repeat:no-repeat;}
+header nav{width:601px; height:42px; float:left; background-image:url(../images/top_bg.jpg); background-position:left top; background-repeat:no-repeat; padding-left:10px; padding-right:10px; float:right;}
+.anniu{width:80px; height:36px; float:left; padding-top:6px;}
+.login{ margin-left:10px;margin-top:10px; height:29px; width:49px; background-image:url(../images/login.jpg); background-repeat:no-repeat; float:left; text-align:center; color:#fff;line-height:29px;}
+.register{margin-top:10px; height:29px; width:49px; background-image:url(../images/register.jpg); background-repeat:no-repeat; float:left; text-align:center; color:#fff; line-height:29px;}
+.gdnews{width:1000px; float:left;}
+.gdnews aside{width:980px; padding-left:10px; padding-top:18px; height:30px; padding-right:10px; padding-bottom:17px; background-image:url(../images/gd.jpg); background-repeat:repeat-x; background-position:left bottom; float:left; line-height:30px;}
+.gdnews aside .line_nr{width:60px; float:left; line-height:30px; height:30px; padding-left:10px; background-image:url(../images/point.jpg); background-repeat:no-repeat; background-position:left center;}
+.gdnews aside .line_news{width:910px; float:right; height:30px; line-height:30px;}
+.inner{width:1000px; float:left; padding-bottom:15px;}
+.inner .left{width:707px; float:left;}
+.inner_left{width:703px; height:328px; padding:1px; background-color:#FFFFFF; float:left; border: 1px solid #b82e2a;}
+.inner_left section{width:703px; height:107px; float:left; float:left; padding-bottom:2px;}
+.bg{ width:483px; float:left; height:106px; padding-left:220px; padding-bottom:1px; border-bottom:1px solid #ffd3d2; float:left;}
+.fy{background-image:url(../images/fy_bg.jpg); background-repeat:no-repeat; background-position:left bottom;}
+.wx{background-image:url(../images/wx_bg.jpg); background-repeat:no-repeat; background-position:left bottom;}
+.jj{background-image:url(../images/9j_bg.jpg); background-repeat:no-repeat; background-position:left bottom;}
+.title1{background-image:url(../images/t1.jpg); background-repeat:no-repeat; background-position:left center;}
+.title2{background-image:url(../images/t2.jpg); background-repeat:no-repeat; background-position:left center;}
+.title3{background-image:url(../images/t3.jpg); background-repeat:no-repeat; background-position:left center;}
+.bg h1{width:483px; float:left; height:36px;}
+.bg article{width:473px; float:left; line-height:20px; height:40px; font-size:12px; font-weight: normal;}
+.bg nav{width:483px; float:left; height:30px; line-height:30px; color:#333333;}
+.ml .bg nav{width:483px; float:left; height:30px; line-height:30px; color:#333333;}
+.bg nav .left{width:280px; float:left; height:30px;}
+.bg nav .right{width:100px; float:left; height:23px; padding-top:7px;}
+.inner .right{ width:280px; float:right;}
+.inner .right aside{width:280px; float:left; height:332px;}
+.inner1{width:1000px; float:left; padding-bottom:30px;}
+.inner1 aside{height:152px; float:left; width:1000px;}
+.inner1 aside .gg{width:705px; float:left; }
+.inner1 aside .kb{width:280px; float:right;}
+.inner1 aside .kb .top{width:270px; height:19px; line-height:14px; padding-left:10px; border-bottom:2px solid #b82e2a; float:left; margin-bottom:10px; padding-top:5px;} 
+.inner1 aside .kb .box{width:270px; float:left; height:116px;}
+.inner1 aside .kb .box li{	width:250px; height:23px; line-height:23px; border-bottom:1px dashed #bbbbbb; float:left; padding-left:10px; padding-right:10px;}
+footer{width:1000px; float:left; border-top:1px solid #dededd; padding-top:10px; line-height:20px; color:#dededd;}
+footer address{width:50%; float:left; color:#666666; line-height:30px;}
+footer copyright{width:50%; float:right; color:#999999; line-height:20px; text-align:right;}
+
